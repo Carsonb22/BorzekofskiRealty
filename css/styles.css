@@ -39,6 +39,12 @@ header {
     border-radius: 25px;  	
 }
 
+table, th, td {
+	border: 1px solid black;
+}
+
+
+
 nav {
     width: 200px;
     margin: 0 5px 0 5px; 
